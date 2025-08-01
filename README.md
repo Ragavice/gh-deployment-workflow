@@ -18,7 +18,7 @@ It sets up a basic **CI/CD pipeline** that only deploys changes when the `index.
 
 ---
 
-## 🔗 Live Site
+## https://roadmap.sh/projects/github-actions-deployment-workflow
 
  [Click here to view the deployed website](https://ragavice.github.io/gh-deployment-workflow/)
 
